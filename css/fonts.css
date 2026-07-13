@@ -1,0 +1,40 @@
+@font-face{
+	font-family: ALGER;
+	src: url('../fonts/ALGER.TTF');
+}
+
+@font-face{
+	font-family: angsab;
+	src: url('../fonts/angsab.ttf');
+}
+
+@font-face{
+	font-family: BRUSHSCI;
+	src: url('../fonts/BRUSHSCI.TTF');
+}
+
+@font-face{
+	font-family: BERNHC;
+	src: url('../fonts/BERNHC.TTF');
+}
+
+@font-face{
+	font-family: calibriz;
+	src: url('../fonts/calibriz.ttf');
+}
+@font-face{
+	font-family: abel;
+	src: url('../fonts/Abel-Regular.ttf');
+}
+@font-face{
+	font-family: COOPBL;
+	src: url('../fonts/COOPBL.TTF');
+}
+@font-face{
+	font-family: anton;
+	src: url('../fonts/Anton-Regular.ttf');
+}
+@font-face{
+	font-family: lexend;
+	src: url('../fonts/LexendExa-Regular.ttf');
+}
